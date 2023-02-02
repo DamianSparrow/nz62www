@@ -1,15 +1,15 @@
 +++
 title = "Team"
 description = ""
-weight = 10
+weight = 40
 +++
+{{< icon name="user" size="large" >}}
 
 Department Head: Assoc. Prof. Jan Swakoń
 
 phone: +48 12 662 8087
 
 e-mail: Jan.Swakon@ifj.edu.pl
-
 
 Team:
 

@@ -1,7 +1,7 @@
 +++
 title = "Computer simulations"
 description = ""
-weight = 50
+weight = 30
 +++
 
 * libamtrack 
